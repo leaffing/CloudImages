@@ -1,2 +1,2 @@
 # CloudImages
-Public gicgo images
+Public picgo images
